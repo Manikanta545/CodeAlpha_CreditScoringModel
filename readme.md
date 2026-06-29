@@ -98,8 +98,7 @@ Thanks to **CodeAlpha** for this internship opportunity and the hands-on project
 ## 🔗 Author
 
 - **Name:** Manikanta Pallepati  
-- **GitHub:** [pallepa](https://github.com/Manikanta545
-- )
+- **GitHub:** [pallepa](https://github.com/Manikanta545)
 
 
 ---
